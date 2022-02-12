@@ -1,0 +1,11 @@
+bookdown::gitbook:
+  css: style.css
+  number_sections: no
+  includes:
+      in_header: header.html
+  config:
+    sharing:
+      facebook: no
+      twitter: no
+      all:
+    info: no

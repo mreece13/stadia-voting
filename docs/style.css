@@ -1,0 +1,32 @@
+body {
+  font-family: 'Hack', monospace;
+}
+
+.book.font-family-1 {
+  font-family: 'Hack', monospace;
+}
+
+.book.font-family-0 {
+  font-family: 'Hack', monospace;
+}
+
+.book .book-body .page-wrapper .page-inner {
+  max-width: 90% !important;
+}
+
+h1, h2, h3, h4, h5, h6, .tocify {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+/* Styles for the bar charts */
+.bar-cell {
+  display: flex;
+  align-items: center;
+}
+
+.bar-chart {
+  flex-grow: 1;
+  margin-left: 2px;
+}
+
+.bar {
+  height: 100%;
+}
